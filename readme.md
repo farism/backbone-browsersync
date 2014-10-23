@@ -1,0 +1,1 @@
+Exmaple of browserSync running on a Backbone single page application. The CSS injection stops working after changing the route.
